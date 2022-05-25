@@ -12,7 +12,6 @@ Development is done in IntelliJ
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Yew Documentation](https://yew.rs/)
 * [Yew Crash Course Video](https://www.youtube.com/watch?v=lmLiMozWNGA)
 * [Article: Basic Interactions with Yew](https://dev.to/fllstck/basic-interactions-with-yew-3pa3)
